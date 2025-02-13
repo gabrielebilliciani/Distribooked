@@ -22,7 +22,7 @@ Scripts for generating synthetic user data.
 - `users_generator.ipynb` → Generates synthetic user data for testing.
 
 ## 📦 Database Creation (`database-creation/`)
-Scripts for creating the database starting from the preprocessed data, including embedded files included in the documents stored in MongoDB.
+Scripts for creating the database starting from the preprocessed data, including embedded files included in the documents stored in MongoDB and the availabilities of books in libraries which are stored in Redis.
 
 ---
 

@@ -14,7 +14,7 @@ For library administrators, our application simplifies everyday operations. They
 
 **Distribooked** is more than a tool; it's a bridge connecting readers and libraries, fostering a culture of learning and exploration in a way that's accessible and engaging for everyone.
 
-## Project Structure
+## Repository Structure
 
 The repository is organised as follows:
 

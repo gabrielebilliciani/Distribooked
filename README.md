@@ -20,4 +20,5 @@ The repository is organised as follows:
 
 - `codebase/`: Contains all the source code related to the project.
 - `dataset/`: Includes the datasets used for testing and development and the scripts for creating the database dumps starting from the raw data.
+- `APIs-documentation/`: Contains the OpenAPI documentation for the APIs used in the project (JSON file). This can be imported into Postman or Swagger for testing.
 - `documentation.pdf`: Comprehensive documentation of the project, including setup instructions, usage, and detailed explanations of the methodologies used.

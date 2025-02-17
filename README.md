@@ -22,3 +22,4 @@ The repository is organised as follows:
 - [`dataset/`](./dataset/): Includes the datasets used for testing and development and the scripts for creating the database dumps starting from the raw data.
 - [`APIs-documentation/`](./APIs-documentation/): Contains the OpenAPI documentation for the APIs used in the project (JSON file). This can be imported into Postman or Swagger for testing.
 - [`documentation.pdf`](./documentation.pdf): Comprehensive documentation of the project, including setup instructions, usage, and detailed explanations of the methodologies used.
+- [`presentation.pdf](./presentation.pdf): Presentation slides used to present the project to the course instructors.
